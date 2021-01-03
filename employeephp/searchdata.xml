@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+-<search anything>
+
+
+-<search anythin>
+
+<name>Dr.Jahangir</name>
+
+<available doctors>yes</available doctors>
+
+<cabin capacity>10</cabin capacity>
+
+<doctors payment>1000</doctors payment>
+
+<any specialist>medicine</any specialist>
+
+</search anything>
+
+
+-<search anything>
+
+<name>Dr.Jahangir</name>
+
+<available doctors>yes</available doctors>
+
+<cabin capacity>10</cabin capacity>
+
+<doctors payment>1000</doctors payment>
+
+<any specialist>cardiology</any specialist>
+
+</book>
+
+
+-<search anything>
+
+<name>Dr.mahim</name>
+
+<available doctors>yes</available doctors>
+
+<cabin capacity>10</cabin capacity>
+
+<doctors payment>1000</doctors payment>
+
+<any specialist>kidny</any specialist>
+
+</book>
+
+
+-<book>
+
+<name>Dr.Rahnam</name>
+
+<available doctors>yes</available doctors>
+
+<cabin capacity>10</cabin capacity>
+
+<doctors payment>1000</doctors payment>
+
+<any specialist>orhopedy</any specialist>
+
+</book>
+
+</books>
